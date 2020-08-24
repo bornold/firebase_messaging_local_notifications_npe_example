@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "895801866168",
+    "firebase_url": "https://fbmessalocalnotinpeex.firebaseio.com",
+    "project_id": "fbmessalocalnotinpeex",
+    "storage_bucket": "fbmessalocalnotinpeex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895801866168:android:445d5c149d063a30d0c14d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_messaging_local_notifications_npe_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895801866168-0g26pkbihjlb655etfelkc6g4cj2kq9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUe41e4pcW6NlqRz0YvNRZmXo78elfE4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895801866168-0g26pkbihjlb655etfelkc6g4cj2kq9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
