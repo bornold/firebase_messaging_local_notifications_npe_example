@@ -12,8 +12,8 @@ dependencies:
   firebase_messaging: ^7.0.0
   flutter_local_notifications:
     git:
-      url: git://github.com/MaikuB/flutter_local_notifications.git
-      ref: time_zone_macos_support
+      url: git://github.com/abilia/flutter_local_notifications.git
+      ref: registerWith-NPE-fix
       path: flutter_local_notifications/
 
   cupertino_icons: ^0.1.3
